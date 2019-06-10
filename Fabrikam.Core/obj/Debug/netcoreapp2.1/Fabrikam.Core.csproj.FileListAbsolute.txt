@@ -1,0 +1,9 @@
+D:\Projects\PromoSET\CallerIdExamples\Fabrikam.Core\bin\Debug\netcoreapp2.1\Fabrikam.Core.deps.json
+D:\Projects\PromoSET\CallerIdExamples\Fabrikam.Core\bin\Debug\netcoreapp2.1\Fabrikam.Core.dll
+D:\Projects\PromoSET\CallerIdExamples\Fabrikam.Core\bin\Debug\netcoreapp2.1\Fabrikam.Core.pdb
+D:\Projects\PromoSET\CallerIdExamples\Fabrikam.Core\obj\Debug\netcoreapp2.1\Fabrikam.Core.csprojAssemblyReference.cache
+D:\Projects\PromoSET\CallerIdExamples\Fabrikam.Core\obj\Debug\netcoreapp2.1\Fabrikam.Core.csproj.CoreCompileInputs.cache
+D:\Projects\PromoSET\CallerIdExamples\Fabrikam.Core\obj\Debug\netcoreapp2.1\Fabrikam.Core.AssemblyInfoInputs.cache
+D:\Projects\PromoSET\CallerIdExamples\Fabrikam.Core\obj\Debug\netcoreapp2.1\Fabrikam.Core.AssemblyInfo.cs
+D:\Projects\PromoSET\CallerIdExamples\Fabrikam.Core\obj\Debug\netcoreapp2.1\Fabrikam.Core.dll
+D:\Projects\PromoSET\CallerIdExamples\Fabrikam.Core\obj\Debug\netcoreapp2.1\Fabrikam.Core.pdb
